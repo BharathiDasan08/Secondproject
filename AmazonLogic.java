@@ -18,5 +18,6 @@ public void payment(String upi,String pass)
 public void payment(String email,String pass2)
 {
 	System.out.println("Payment done via internet banking\n");
+	System.out.println("Thanks for purchasing");
 	}
 }
