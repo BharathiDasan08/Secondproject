@@ -8,9 +8,15 @@ public void payment()
 
 public void payment(long cardno,int cvv)
 {
-	System.out.println("card payment\n");
+	System.out.println("card payment done\n");
 }
 public void payment(String upi,String pass)
 {
-	System.out.println("Payment done via upi\n");}
+	System.out.println("Payment done via upi\n");
+	}
+
+public void payment(String email,String pass1)
+{
+	System.out.println("Payment done via net banking\n");
+	}
 }
