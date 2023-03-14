@@ -30,6 +30,7 @@ public static void main(String[] args) {
 		     case 4 : System.exit(0);
 		     
 		     default : System.out.println("Invali payment option");
+				Sysytem.out.println(New Code Added);
 		}
 	}
 	
